@@ -4,7 +4,7 @@
 import readlineSync = require('readline-sync'); //for easier repeated prompts
 import {Product} from './products';
 import {Model} from './model';
-import {removalView} from './RemovalView'
+import {removalView} from './removalView'
 import {cartView} from './cartView';
 import {priceView} from './priceView';
 
