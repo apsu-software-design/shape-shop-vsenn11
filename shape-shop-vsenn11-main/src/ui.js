@@ -6,7 +6,7 @@ exports.start = void 0;
 var readlineSync = require("readline-sync"); //for easier repeated prompts
 var products_1 = require("./products");
 var model_1 = require("./model");
-var RemovalView_1 = require("./RemovalView");
+var RemovalView_1 = require("./removalView");
 var cartView_1 = require("./cartView");
 var priceView_1 = require("./priceView");
 // Hey look. It's a global variable. This is totally cool, right?
